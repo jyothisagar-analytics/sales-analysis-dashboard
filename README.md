@@ -26,3 +26,7 @@ This project presents an interactive Sales Dashboard built using Microsoft Excel
 ## 📁 Files Included
 - Excel Dashboard File
 - PDF Version for Quick Review
+
+- ## 📷 Dashboard Preview
+
+![Dashboard Preview](Dashboard_Preview_Jyothi.png)
